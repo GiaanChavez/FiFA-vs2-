@@ -1,5 +1,11 @@
 # FIFA World Cup 2026 — Resultados de Eliminatorias
 
+**Integrantes:**
+- Giaan Harri Chavez Bazan
+- Jhohan Lizandro Meza Villacorta
+- Herald Mijael Bardales Vasquez
+- Santillán Picón Jhordan Samir
+
 **Fuente del notebook:** FIFA.com / ESPN / Yahoo Sports / NBC Sports (verificado 12 jul 2026)
 **Semifinalistas confirmados:** Francia 🇫🇷 · España 🇪🇸 · Inglaterra 🏴 · Argentina 🇦🇷
 
@@ -87,6 +93,9 @@
 | 🥉 Tercer lugar | Francia |
 | 4️⃣ Cuarto lugar | Inglaterra |
 
+---
+
+> ⚠️ **Nota:** Las tablas de Ronda de 32, Octavos y Cuartos corresponden a resultados ya registrados en el notebook. Las tablas de Semifinales, Tercer Puesto y Final son **predicciones generadas por los modelos** (Poisson, XGBoost, Monte Carlo) del notebook `FIFA_WC2026_v2.ipynb`, ya que esos partidos aún no se habían disputado al momento del análisis.
 ---
 
 > ⚠️ **Nota:** Las tablas de Ronda de 32, Octavos y Cuartos corresponden a resultados ya registrados en el notebook. Las tablas de Semifinales, Tercer Puesto y Final son **predicciones generadas por los modelos** (Poisson, XGBoost, Monte Carlo) del notebook `FIFA_WC2026_v2.ipynb`, ya que esos partidos aún no se habían disputado al momento del análisis.
