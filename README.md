@@ -2,9 +2,6 @@
 
 **Integrantes:**
 - Giaan Harri Chavez Bazan
-- Jhohan Lizandro Meza Villacorta
-- Herald Mijael Bardales Vasquez
-- Santillán Picón Jhordan Samir
 
 **Fuente del notebook:** FIFA.com / ESPN / Yahoo Sports / NBC Sports (verificado 12 jul 2026)
 **Semifinalistas confirmados:** Francia 🇫🇷 · España 🇪🇸 · Inglaterra 🏴 · Argentina 🇦🇷
